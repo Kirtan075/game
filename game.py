@@ -48,5 +48,5 @@ def main():
         # Display current score
         print(f"Current Score - You: {player_score}, Computer: {computer_score}\n")
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     main()
